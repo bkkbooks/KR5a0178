@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR5a0178/v1
+canonical_location: https://kanripo.org/bkk/KR5a0178/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太上洞真智慧上品大誡
+  identifiers:
+    alt_id:
+    - DZ0177
+    - JY269
+  date: '2015-08-28 23:40:01.080036'
+  source:
+    repository: kanripo
+    path: KR5a0178
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: CK-KZ
+  label: 【重刊道藏輯要】
+- short: CK-KZ-jye
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: YP-C
+  label: 【原版道藏輯要】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0178_000.yaml, hash: 'sha256:cc84d46e04a2a13d468637bbf487aebe9cedce8608b358bbaa225af97c55f3f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0178_000.markers.yaml, hash: 'sha256:48d1eba4a4c500d7659f667193659bfff423cbd4c60b6dfd976d3a8d47bf4b81'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0178_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 4290
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:d83106afcb394694944ce8a2a41cda638b2d0d08e35ee9ec85ea4ac025289fd7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

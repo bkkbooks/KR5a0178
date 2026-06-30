@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0178/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0178/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞真智慧上品大誡
+  date: '2015-08-28 23:40:01.080036'
+  source:
+    repository: kanripo
+    path: KR5a0178
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0178_000-CK-KZ.yaml, hash: 'sha256:f55872666e4de6b6732a6d0de4ec68dfa0d60038c04fb2039c32d7b07548f33f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0178_000-CK-KZ.markers.yaml, hash: 'sha256:cd17b0529433de565c26b421973246eb3fbd5bc191a2fe23a41463b3648b9e19'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0178_CK-KZ_01p025a
+    span:
+    - body
+    - 0
+    - 3718
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:ce12abe6c0cea1becad8c54d3b1ba478a232555e1ccf5df55b9456a104e2286d

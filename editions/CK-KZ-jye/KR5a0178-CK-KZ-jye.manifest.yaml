@@ -1,0 +1,69 @@
+canonical_identifier: bkk:krp/KR5a0178/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0178/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞真智慧上品大誡
+  date: '2015-08-28 23:40:01.080036'
+  source:
+    repository: kanripo
+    path: KR5a0178
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0178_000-CK-KZ-jye.yaml, hash: 'sha256:8fcaf0e14bfff445a8a8abcaa86a3906502db535468b30ff9bf1ec7f7b8b76f0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0178_000-CK-KZ-jye.markers.yaml, hash: 'sha256:da120b7cccc54f0c6e6229cd3a0a0819ec75e85db7f46eb8890922dcb599d5db'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0178_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 589
+    - 848
+  label: 智慧閉塞六情上品誡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5a0178_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 848
+    - 1105
+  label: 智慧度生上品大誡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5a0178_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 1105
+    - 2754
+  label: 智慧十善勸助上品大誡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR5a0178_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 2754
+    - 3682
+  label: 智慧功德報應上品誡
+  type: section
+  level: 1
+hash: sha256:589310c6835eca28cb2761b321b9795da121b0832bdcefffba0bcb482b2e18d4
