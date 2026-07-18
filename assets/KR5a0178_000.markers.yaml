@@ -2239,6 +2239,7 @@ markers:
   - {type: variant, offset: 4279, length: 11, content: 太上洞真智慧上品大誡終, CK-KZ-jye: ''}
   - {type: variant, offset: 4279, length: 11, content: 太上洞真智慧上品大誡終, YP-C: ''}
   - {type: punctuation, offset: 4289, content: (, id: KR5a0178_krp_000-bkkpn1}
+  - {type: voice, offset: 4289, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4290, content: ), id: KR5a0178_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 4290, content: '
 
@@ -2250,4 +2251,4 @@ markers:
 
       ', id: KR5a0178_krp_000-bkkkrnewl337}
   back: []
-hash: sha256:b1fb37c820408a8fef1c3084e7c6d4f56091d253b5e6e6ebfedc0e1e78e181b1
+hash: sha256:a6b7043204372fd8f8a91100105b54f9d9503fb757157fd0d9f6501cfa584179
